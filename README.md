@@ -6,16 +6,18 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto NeoEstoque foi idealizado para atender microempreendedores individuais, pequenas e médias empresas do setor de eletrônicos. Tem como objetivo oferecer um sistema simples, mas funcional, que permita cadastrar, organizar e consultar produtos de uma loja de eletrônicos, trazendo mais eficiência e modernidade ao processo de gestão.  
+
+O controle de estoque é um dos elementos mais importantes para a gestão de qualquer empresa, especialmente no setor de eletrônicos, onde há constante entrada de novos produtos, lançamentos e mudanças rápidas na demanda. Um sistema eficiente de gestão de estoque permite maior organização, evita prejuízos com falta ou excesso de produtos. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-
+* Alexandre Wilson Calcavara 
+* Caio Balloni 
+* Emerson Avelar 
+* Luca Emílio 
+* Rafael Azanha 
+* Maria Luiza Ferreira 
 
 ## Orientador
 
