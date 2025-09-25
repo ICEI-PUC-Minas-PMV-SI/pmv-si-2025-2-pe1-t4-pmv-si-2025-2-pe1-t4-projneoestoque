@@ -31,10 +31,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Rafaella mattos(Estudante de Medicina)|Organizar meus cronogramas de provas e trabalhos.|medo de atrasar ou perder os prazos           |
-| Rafaella mattos(Estudante de Medicina)|Um jeito rápido e prático de estudar para minhas provas.| Permitir que possam administrar contas |
-
-
+|Rafaella mattos(Estudante de Medicina)|Organizar meus cronogramas de provas e trabalhos.|Não perder prazo de entrega          |
+|Rafaella mattos(Estudante de Medicina)|Um jeito rápido e prático de estudar para minhas provas.|Conseguir revizar matéria de forma rapida |
+|Pietra Silva(recém-formada)|Formas de apoio para situações de emergência|agilizar meus processos|
+|Pietra Silva(recém-formada)|Organizar minha agenda|Não me esquer dos plantões e consultas|
+|Ana Clara(Residente de Medicina)|Acompanhar meu aprendizado e registrá-lo.|Acompanhar minha evolução, e melhorar nos pontos negativos.|
+|Ana Clara(Residente de Medicina)|Consultar protocolos de emergência de forma rápida|Quero sentir seguro na hora de tomar as decisões.|
 
 ## Requisitos
 
@@ -44,32 +46,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+|RF-001|Permitir que o residente consulte protocolos de emergência de forma rápida. | ALTA |  
+|RF-002|Registrar e acompanhar o progresso de aprendizado do residente.| MÉDIA | 
+|RF-003|Organização do cronograma de provas e trabalho.| ALTA |
+|RF-004|Disponibilizar recursos de revisão para provas, incluindo quizzes interativos.| MÉDIA |
+|RF-005|O sistema deve oferecer interface prática e intuitiva.| ALTA |
+|RF-006|O sistema deve ser rápido e confiável em situações de emergência.| MÉDIA |
+|RF-007|Ter formas de acompanhar os resultados é o nível de aprendizado.| ALTA |
+|RF-008|Incluir um calendário para marcação dos prazos.| ALTA |
+|RF-009|Classificação de atividades por cores ou categorias (plantões, aulas, provas, compromissos pessoais).| ALTA |
+|RF-010|Área de anotações rápidas para registro de informações durante plantões ou estudos.| ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
+|RNF-001|O sistema deve carregar as telas em até 4 segundos em condições normais de uso. | MÉDIA | 
+|RNF-002|O sistema deve suportar pelo menos 100 usuários simultâneos sem degradação significativa de desempenho. | ALTA | 
+|RNF-003|O sistema deve ser compatível com navegadores modernos (Google Chrome, Mozilla Firefox, Microsoft Edge).| ALTA |
+|RNF-004|O sistema deve ser totalmente responsivo.| ALTA |
+|RNF-005|Deve funcionar em dispositivos móveis e desktops.| BAIXA |
+|RNF-006|O acesso ao sistema deve ser protegido por autenticação de usuário.| ALTA |
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
