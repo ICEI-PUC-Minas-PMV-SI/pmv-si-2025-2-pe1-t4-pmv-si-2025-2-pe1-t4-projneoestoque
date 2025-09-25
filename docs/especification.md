@@ -1,27 +1,26 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
-
 ## Personas
+| ![Foto da Persona](./img/persona2.jpg) | *Rafaela Mattos<br><br>Idade:* 19 anos<br>*Profissão:* Estudante de Medicina <br>*Localização:* Brasil<br>*Objetivo:* Organizar seus estudos e gerenciar melhor o tempo |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| *Descrição* | *Dores* | *Expectativas* |
+|---------------|-----------|------------------|
+| Rafaela é uma estudante de medicina que se sente desanimada e perdida com a quantidade de matérias e tarefas. Ela gostaria de se organizar melhor nos estudos, mas sente dificuldade por não ter uma visão clara do que precisa fazer. | - Não sabe como organizar todos os estudos e tarefas<br>- Considera a gestão do tempo complicada e cansativa<br>- Acha difícil encontrar um método claro e eficiente de estudo<br>- Sente ansiedade por perder prazos ou conteúdos importantes | - Conseguir organizar melhor todos os estudos e tarefas<br>- Ter um método claro e fácil de acompanhar para estudar<br>- Encontrar uma forma prática de gerenciar o tempo e atividades |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| ![Foto da Persona](./img/persona1.jpg) | *Pietra Silva<br><br>Idade:* 25 anos<br>*Profissão:* Médica recém-formada<br>*Localização:* Brasil<br>*Objetivo:* Organizar agenda |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| *Descrição* | *Dores* | *Expectativas* |
+|---------------|-----------|------------------|
+| Pietra é uma médica recém-formada que precisa organizar plantões e compromissos. Ela quer gerenciar melhor sua agenda, mas sente dificuldade em controlar horários e tarefas. | - Não consegue organizar plantões e compromissos<br>- Acha difícil visualizar toda a rotina de forma clara<br>- Considera a gestão da agenda complicada e cansativa<br>- Dificuldade em priorizar compromissos importantes | - Conseguir organizar plantões e compromissos de forma prática<br>- Ter uma visão clara de toda a rotina diária e semanal<br>- Reduzir a sobrecarga e tornar a gestão da agenda mais eficiente|
 
+| ![Foto da Persona](./img/persona3.jpg) | *Ana Clara<br><br>Idade:* 35 anos<br>*Profissão:* Residente de Medicina<br>*Localização:* Brasil<br>*Objetivo:* Acesso rápido a protocolos clínicos e guias de conduta |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| *Descrição* | *Dores* | *Expectativas* |
+|---------------|-----------|------------------|
+| Ana é uma residente de medicina que precisa consultar protocolos de emergência rapidamente durante plantões. Ele quer se sentir seguro ao tomar decisões críticas, mas sente dificuldade em acessar informações de forma prática. | - Não consegue acessar protocolos de emergência de forma rápida<br>- Acha difícil ter todas as informações organizadas e acessíveis<br>- Tem medo de cometer erros por falta de referência clara<br>- Sente insegurança na hora de tomar decisões críticas | - Conseguir consultar protocolos de forma ágil e prática<br>- Ter todas as informações organizadas em um só lugar<br>- eduzir o risco de erros durante atendimentos emergenciais |
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
