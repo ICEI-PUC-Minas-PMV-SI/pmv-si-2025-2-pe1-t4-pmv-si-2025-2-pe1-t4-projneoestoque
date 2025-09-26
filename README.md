@@ -21,7 +21,7 @@ O controle de estoque é um dos elementos mais importantes para a gestão de qua
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marco Rodrigo Costa
 
 # Planejamento
 
