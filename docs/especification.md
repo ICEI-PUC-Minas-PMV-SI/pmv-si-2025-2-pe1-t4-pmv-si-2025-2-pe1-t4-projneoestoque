@@ -29,7 +29,7 @@ Por fim, foram consideradas as restrições do projeto, que delimitam o escopo e
 | Ana é uma residente de medicina que precisa consultar protocolos de emergência rapidamente durante plantões. Ele quer se sentir seguro ao tomar decisões críticas, mas sente dificuldade em acessar informações de forma prática. | - Não consegue acessar protocolos de emergência de forma rápida<br>- Acha difícil ter todas as informações organizadas e acessíveis<br>- Tem medo de cometer erros por falta de referência clara<br>- Sente insegurança na hora de tomar decisões críticas | - Conseguir consultar protocolos de forma ágil e prática<br>- Ter todas as informações organizadas em um só lugar<br>- eduzir o risco de erros durante atendimentos emergenciais |
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas formas identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
