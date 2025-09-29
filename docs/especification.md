@@ -9,12 +9,15 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 ## Personas
 
 Persona 1
+
 Carlos tem 38 anos, é dono de uma pequena loja de eletrônicos em uma cidade do interior. Trabalha há mais de 10 anos no comércio e conhece muito bem seus clientes, mas sempre teve dificuldades em organizar o estoque. Ele ainda usa planilhas simples e, muitas vezes, acaba anotando em cadernos. Isso gera atrasos e até perda de mercadorias. Carlos procura uma solução prática e acessível que o ajude a controlar melhor a entrada e saída de produtos, sem precisar ser especialista em tecnologia.
 
 Persona 2
+
 Mariana tem 29 anos e é gerente de operações em uma rede de lojas de médio porte que também vende online. Ela lida diariamente com problemas de estoque duplicado e atrasos na reposição, o que afeta diretamente as vendas e a experiência do cliente. Mariana busca uma ferramenta que permita acompanhar o estoque em tempo real e gerar relatórios simples para agilizar suas decisões. Organizada e prática, ela valoriza sistemas claros e que possam ser acessados facilmente por toda a equipe.
 
 Persona 3
+
 Lucas tem 22 anos e está começando seu próprio negócio online de venda de acessórios eletrônicos. Ele é estudante de tecnologia e sonha em transformar sua loja em uma marca reconhecida. Por ser iniciante, ainda tem dificuldades em gerenciar os produtos que vende e em calcular o momento certo de repor o estoque. Lucas busca uma solução intuitiva e de baixo custo, que o ajude a se organizar desde o início e evitar erros que possam atrapalhar seu crescimento.
 
 ## Histórias de Usuários
