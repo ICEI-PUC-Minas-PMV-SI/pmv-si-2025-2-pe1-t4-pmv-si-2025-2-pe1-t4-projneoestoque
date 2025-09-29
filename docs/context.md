@@ -14,13 +14,20 @@ falta de informações precisas dificulta a reposição e a oferta de produtos.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é automatizar e otimizar o controle de estoque de 
+pequenas e médias empresas do ramo de eletrônicos criando um sistema web 
+Front-end. Para isso, o sistema buscará: 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+• Permitir o cadastro de produtos com informações de nome, categoria, 
+quantidade e preço. 
+• Disponibilizar uma listagem organizada e de fácil visualização. 
+• Reduzir falhas humanas no registro de entradas e saídas. 
+• Implementar funcionalidades de busca e filtros. 
+• Oferecer opções de edição e exclusão de produtos. 
+• Utilizar o LocalStorage para armazenamento de dados, dispensando banco 
+de dados externo. 
+• Incluir funcionalidades extras, como alerta de baixo estoque, entrada e saída 
+de produtos e modo escuro/claro. 
 ## Justificativa
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
