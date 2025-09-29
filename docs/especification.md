@@ -8,50 +8,14 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
-Carlos Souza
-Idade: 38 anos
+Persona 1
+Carlos tem 38 anos, é dono de uma pequena loja de eletrônicos em uma cidade do interior. Trabalha há mais de 10 anos no comércio e conhece muito bem seus clientes, mas sempre teve dificuldades em organizar o estoque. Ele ainda usa planilhas simples e, muitas vezes, acaba anotando em cadernos. Isso gera atrasos e até perda de mercadorias. Carlos procura uma solução prática e acessível que o ajude a controlar melhor a entrada e saída de produtos, sem precisar ser especialista em tecnologia.
 
-Profissão: dono de uma loja física de eletrônicos
+Persona 2
+Mariana tem 29 anos e é gerente de operações em uma rede de lojas de médio porte que também vende online. Ela lida diariamente com problemas de estoque duplicado e atrasos na reposição, o que afeta diretamente as vendas e a experiência do cliente. Mariana busca uma ferramenta que permita acompanhar o estoque em tempo real e gerar relatórios simples para agilizar suas decisões. Organizada e prática, ela valoriza sistemas claros e que possam ser acessados facilmente por toda a equipe.
 
-Localização: cidade pequena
-
-Situação atual: controla o estoque em planilhas ou até em cadernos
-
-Necessidade: ter uma ferramenta simples que permita registrar, organizar e consultar produtos de forma rápida
-
-Objetivo: reduzir perdas, organizar melhor as vendas e ganhar tempo no dia a dia
-
-Motivação: quer aumentar o lucro sem precisar contratar mais funcionários ou investir em sistemas caros
-
-Mariana Oliveira
-Idade: 29 anos
-
-Profissão: gerente de operações em rede de lojas físicas + e-commerce
-
-Localização: Cidade grande
-
-Situação atual: enfrenta problemas com estoque duplicado, atrasos na reposição e falta de relatórios claros
-
-Necessidade: um sistema confiável que mostre dados em tempo real e facilite relatórios para decisões rápidas
-
-Objetivo: otimizar processos internos, garantir que os clientes sempre encontrem o produto disponível
-
-Motivação: entregar bons resultados para a empresa e reduzir custos com falhas de gestão
-
-Lucas Martins
-Idade: 22 anos
-
-Profissão: estudante e dono de um pequeno e-commerce de acessórios eletrônicos
-
-Localização: área urbana
-
-Situação atual: ainda aprende a gerenciar seu estoque, usa anotações soltas e sente medo de cometer erros que prejudiquem o negócio
-
-Necessidade: uma solução intuitiva, acessível e fácil de aprender
-
-Objetivo: estruturar desde cedo um controle organizado, para que sua loja possa crescer de forma saudável
-
-Motivação: transformar seu pequeno negócio em uma marca reconhecida no mercado
+Persona 3
+Lucas tem 22 anos e está começando seu próprio negócio online de venda de acessórios eletrônicos. Ele é estudante de tecnologia e sonha em transformar sua loja em uma marca reconhecida. Por ser iniciante, ainda tem dificuldades em gerenciar os produtos que vende e em calcular o momento certo de repor o estoque. Lucas busca uma solução intuitiva e de baixo custo, que o ajude a se organizar desde o início e evitar erros que possam atrapalhar seu crescimento.
 
 ## Histórias de Usuários
 
