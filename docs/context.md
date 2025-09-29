@@ -36,14 +36,19 @@ de dados externo.
 de produtos e modo escuro/claro. 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O setor de eletrônicos está em constante expansão e apresenta desafios 
+específicos relacionados ao gerenciamento de estoque. 
+O NeoEstoque foi pensado para facilitar a vida de pequenos e médios 
+comerciantes do setor de eletrônicos que enfrentam dificuldades no controle de 
+seus produtos. Muitas vezes, esse processo ainda é feito de forma manual, em 
+3 
+planilhas ou até mesmo em cadernos, o que aumenta as chances de erros, perdas 
+de mercadoria e falta de organização. 
+A ideia do projeto é oferecer uma solução simples, prática e acessível, que 
+permita registrar, consultar e gerenciar o estoque de forma eficiente. Com isso, os 
+funcionários terão mais controle sobre a entrada e saída de produtos, evitando 
+desperdícios, melhorando a reposição e garantindo que o cliente encontre sempre o 
+que procura. Para isso, os dados serão armazenados em um banco de dados relacional (como o MySQL ou PostgreSQL)
 
 ## Público-Alvo
 
