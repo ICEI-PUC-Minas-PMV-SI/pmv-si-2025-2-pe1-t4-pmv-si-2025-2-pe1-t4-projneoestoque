@@ -27,9 +27,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Dono de loja        | Adicionar e remover produtos       | Ter controle do estoque                |
-|Gerente de loja     | Historico de transações            | agilizar as decisões                   |
+|Gerente de loja     | Historico de transações            | Agilizar as decisões                   |
 |Vendedor            | Consultar rapidamente o preço e a quantidade de um produto | Agilizar o atendimento |
-|Caixa               | Filtrar produtos por nome ou categoria |  localizar itens rapidamente |
+|Caixa               | Filtrar produtos por nome ou categoria |  Localizar itens rapidamente |
 |Estoquista          | Dar baixa em produtos vendidos     | Manter o controle de saída correto e evitar erros |
 
 ## Requisitos
@@ -40,16 +40,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
-
+|RF-001| Permitir o cadastro de novos produtos no sistema  | ALTA |  
+|RF-002| Registrar a entrada de produtos no estoque   | ALTA | 
+|RF-003| Registrar a saída de produtos vendidos | ALTA |
+|RF-004| Consultar estoque em tempo real | ALTA |
+|RF-005| Emitir relatórios de estoque e vendas | MÉDIA |
+|RF-006| Gerar alertas de produtos com baixo estoque | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser de fácil utilização, com interface simples e intuitiva | ALTA | 
+|RNF-002| O sistema deve ser acessível via web e responsivo para dispositivos móveis |  MÉDIA |
+|RNF-003| O sistema deve garantir segurança dos dados de estoque e vendas            | ALTA |
+|RNF-004| O tempo de resposta das consultas de estoque deve ser inferior a 2 segundos | ALTA |
+|RNF-005| O sistema deve permitir múltiplos acessos simultâneos sem perda de desempenho | MÉDIA |
+|RNF-006| O sistema deve possibilitar backup das informações | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
