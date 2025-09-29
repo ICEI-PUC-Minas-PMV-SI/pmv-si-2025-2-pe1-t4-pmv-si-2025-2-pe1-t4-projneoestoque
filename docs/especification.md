@@ -28,7 +28,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Dono de loja        | Adicionar e remover produtos       | Ter controle do estoque                |
 |Gerente de loja     | Historico de transações            | agilizar as decisões                   |
-|Vendedor            | consultar rapidamente o preço e a quantidade de um produto |  informar o cliente com precisão e agilizar o atendimento. |
+|Vendedor            | Consultar rapidamente o preço e a quantidade de um produto | Agilizar o atendimento. |
 
 ## Requisitos
 
