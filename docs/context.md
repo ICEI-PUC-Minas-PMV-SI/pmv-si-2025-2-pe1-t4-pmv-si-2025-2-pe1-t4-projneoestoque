@@ -1,12 +1,8 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O mercado de eletrônicos cresce a cada ano, movimentando bilhões e tornando-se cada vez mais competitivo. Nesse cenário, pequenos e médios lojistas enfrentam o desafio de gerenciar seus estoques com eficiência, mas muitos ainda recorrem a planilhas ou controles manuais, o que gera erros, perdas e dificulta a tomada de decisão.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Ter um bom controle de estoque deixou de ser apenas uma questão operacional: hoje é um fator estratégico para garantir vendas, reduzir desperdícios e melhorar a experiência do cliente. Pensando nisso, surge o NeoEstoque, uma ferramenta simples, prática e acessível que ajuda comerciantes a organizarem seus produtos, acompanharem entradas e saídas e planejarem melhor suas reposições.
 
 ## Problema
 
