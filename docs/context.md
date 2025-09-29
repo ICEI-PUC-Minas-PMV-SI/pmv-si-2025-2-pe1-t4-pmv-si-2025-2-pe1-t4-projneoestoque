@@ -52,12 +52,5 @@ que procura. Para isso, os dados serão armazenados em um banco de dados relacio
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Consumidores individuais, como estudantes, empreendedores iniciantes e pessoas que desejam organizar seus produtos pessoais ou pequenos negócios de forma digital, sem depender de anotações manuais ou planilhas complexas.
+Microempreendedores, pequenos e médios lojistas do setor de eletrônicos que buscam uma solução prática, acessível e eficiente para controlar seu estoque, reduzir perdas, otimizar reposições e melhorar a experiência de compra dos clientes.
