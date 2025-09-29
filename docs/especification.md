@@ -44,7 +44,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Registrar a entrada de produtos no estoque   | ALTA | 
 |RF-003| Registrar a saída de produtos vendidos | ALTA |
 |RF-004| Consultar estoque em tempo real | ALTA |
-|RF-005| Emitir relatórios de estoque e vendas | MÉDIA |
+|RF-005| Emitir relatórios de estoque e vendas | MEDIA |
 |RF-006| Gerar alertas de produtos com baixo estoque | ALTA |
 
 ### Requisitos não Funcionais
@@ -52,10 +52,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser de fácil utilização, com interface simples e intuitiva | ALTA | 
-|RNF-002| O sistema deve ser acessível via web e responsivo para dispositivos móveis |  MÉDIA |
+|RNF-002| O sistema deve ser acessível via web e responsivo para dispositivos móveis |  MEDIA |
 |RNF-003| O sistema deve garantir segurança dos dados de estoque e vendas            | ALTA |
 |RNF-004| O tempo de resposta das consultas de estoque deve ser inferior a 2 segundos | ALTA |
-|RNF-005| O sistema deve permitir múltiplos acessos simultâneos sem perda de desempenho | MÉDIA |
+|RNF-005| O sistema deve permitir múltiplos acessos simultâneos sem perda de desempenho | MEDIA |
 |RNF-006| O sistema deve possibilitar backup das informações | BAIXA |
 
 
