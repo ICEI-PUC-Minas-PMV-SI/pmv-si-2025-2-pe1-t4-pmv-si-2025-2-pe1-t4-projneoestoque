@@ -20,12 +20,18 @@ Front-end. Para isso, o sistema buscará:
 
 • Permitir o cadastro de produtos com informações de nome, categoria, 
 quantidade e preço. 
+
 • Disponibilizar uma listagem organizada e de fácil visualização. 
+
 • Reduzir falhas humanas no registro de entradas e saídas. 
+
 • Implementar funcionalidades de busca e filtros. 
+
 • Oferecer opções de edição e exclusão de produtos. 
+
 • Utilizar o LocalStorage para armazenamento de dados, dispensando banco 
 de dados externo. 
+
 • Incluir funcionalidades extras, como alerta de baixo estoque, entrada e saída 
 de produtos e modo escuro/claro. 
 ## Justificativa
