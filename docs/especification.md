@@ -8,19 +8,50 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Carlos Souza
+Idade: 38 anos
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Profissão: dono de uma loja física de eletrônicos
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Localização: cidade pequena
+
+Situação atual: controla o estoque em planilhas ou até em cadernos
+
+Necessidade: ter uma ferramenta simples que permita registrar, organizar e consultar produtos de forma rápida
+
+Objetivo: reduzir perdas, organizar melhor as vendas e ganhar tempo no dia a dia
+
+Motivação: quer aumentar o lucro sem precisar contratar mais funcionários ou investir em sistemas caros
+
+Mariana Oliveira
+Idade: 29 anos
+
+Profissão: gerente de operações em rede de lojas físicas + e-commerce
+
+Localização: Cidade grande
+
+Situação atual: enfrenta problemas com estoque duplicado, atrasos na reposição e falta de relatórios claros
+
+Necessidade: um sistema confiável que mostre dados em tempo real e facilite relatórios para decisões rápidas
+
+Objetivo: otimizar processos internos, garantir que os clientes sempre encontrem o produto disponível
+
+Motivação: entregar bons resultados para a empresa e reduzir custos com falhas de gestão
+
+Lucas Martins
+Idade: 22 anos
+
+Profissão: estudante e dono de um pequeno e-commerce de acessórios eletrônicos
+
+Localização: área urbana
+
+Situação atual: ainda aprende a gerenciar seu estoque, usa anotações soltas e sente medo de cometer erros que prejudiquem o negócio
+
+Necessidade: uma solução intuitiva, acessível e fácil de aprender
+
+Objetivo: estruturar desde cedo um controle organizado, para que sua loja possa crescer de forma saudável
+
+Motivação: transformar seu pequeno negócio em uma marca reconhecida no mercado
 
 ## Histórias de Usuários
 
