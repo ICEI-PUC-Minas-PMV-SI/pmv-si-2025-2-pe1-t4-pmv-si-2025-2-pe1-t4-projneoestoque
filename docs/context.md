@@ -53,4 +53,5 @@ que procura. Para isso, os dados serão armazenados em um banco de dados relacio
 ## Público-Alvo
 
 Consumidores individuais, como estudantes, empreendedores iniciantes e pessoas que desejam organizar seus produtos pessoais ou pequenos negócios de forma digital, sem depender de anotações manuais ou planilhas complexas.
+
 Microempreendedores, pequenos e médios lojistas do setor de eletrônicos que buscam uma solução prática, acessível e eficiente para controlar seu estoque, reduzir perdas, otimizar reposições e melhorar a experiência de compra dos clientes.
