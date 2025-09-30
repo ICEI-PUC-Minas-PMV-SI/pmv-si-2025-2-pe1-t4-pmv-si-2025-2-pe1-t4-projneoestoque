@@ -25,8 +25,10 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
-
+- Primária: Azul escuro (#011140)
+- Secundária: Roxo escuro (#323050)
+- Fundo das telas: Cinza (#b3b2c2)
+- Textos: Preto (#0d0d0d)
 
 ## Tipografia
 
