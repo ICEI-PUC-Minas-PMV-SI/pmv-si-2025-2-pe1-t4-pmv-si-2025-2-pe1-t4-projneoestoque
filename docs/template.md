@@ -8,19 +8,19 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 - Boas-vindas → exibe logo, slogan e botão de começar.
 
-Login/Cadastro → campos de entrada centralizados, com botão de ação em destaque.
+- Login/Cadastro → campos de entrada centralizados, com botão de ação em destaque.
 
-Dashboard → apresenta atalhos rápidos (adicionar item e ver estoque), além de histórico de movimentações.
+- Dashboard → apresenta atalhos rápidos (adicionar item e ver estoque), além de histórico de movimentações.
 
-Listagem de Itens → cards com nome e código do produto.
+- Listagem de Itens → cards com nome e código do produto.
 
-Adicionar/Editar Itens → formulário simples com campos de texto e botão de salvar/excluir.
+- Adicionar/Editar Itens → formulário simples com campos de texto e botão de salvar/excluir.
 
-Menu Lateral → acesso a perfil e outras opções (como sair do sistema).
+- Menu Lateral → acesso a perfil e outras opções (como sair do sistema).
 
-Logo: aparece na tela inicial e no topo superior direito
+- Logo: aparece na tela inicial e no topo superior direito
 
-Botões: destacados em cor sólida da paleta para facilitar a ação do usuário.
+- Botões: destacados em cor sólida da paleta para facilitar a ação do usuário.
 
 
 ## Cores
