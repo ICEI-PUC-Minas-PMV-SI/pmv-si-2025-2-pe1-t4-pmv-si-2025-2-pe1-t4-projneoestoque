@@ -6,7 +6,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-Boas-vindas → exibe logo, slogan e botão de começar.
+> - Boas-vindas → exibe logo, slogan e botão de começar.
 
 Login/Cadastro → campos de entrada centralizados, com botão de ação em destaque.
 
