@@ -25,7 +25,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Cores
 
-paleta de cores é baseada em tons frios e neutros, transmitindo profissionalismo e clareza
+paleta de cores é baseada em tons frios e neutros, transmitindo profissionalismo e modernidade
 
 - Primária: Azul escuro (#011140)
 - Secundária: Roxo escuro (#323050)
