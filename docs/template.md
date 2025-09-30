@@ -34,7 +34,13 @@ paleta de cores é baseada em tons frios e neutros, transmitindo profissionalism
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+- Título de Página: Georgia 
+
+- Seções e Botões: Spoof
+
+- Campos/Formulários: Georgia
+
+- Corpo de Texto: Georgia
 
 
 ## Iconografia
