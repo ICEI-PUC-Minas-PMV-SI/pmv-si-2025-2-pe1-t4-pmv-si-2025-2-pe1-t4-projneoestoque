@@ -25,6 +25,8 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Cores
 
+paleta de cores é baseada em tons frios e neutros, transmitindo profissionalismo e clareza
+
 - Primária: Azul escuro (#011140)
 - Secundária: Roxo escuro (#323050)
 - Fundo das telas: Cinza (#b3b2c2)
