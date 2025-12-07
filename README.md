@@ -1,42 +1,73 @@
-# Título do Projeto
+# NeoEstoque
 
-`CURSO: Sistemas de Informação`
+**CURSO:** Sistemas de Informação  
+**DISCIPLINA:** Projeto - Aplicações Web  
+**SEMESTRE:** 1º  
 
-`DISCIPLINA: Projeto - Aplicações Web`
+---
 
-`SEMESTRE: 1º`
+## Sobre o Projeto
 
-O projeto NeoEstoque foi idealizado para atender microempreendedores individuais, pequenas e médias empresas do setor de eletrônicos. Tem como objetivo oferecer um sistema simples, mas funcional, que permita cadastrar, organizar e consultar produtos de uma loja de eletrônicos, trazendo mais eficiência e modernidade ao processo de gestão.  
+O **NeoEstoque** foi idealizado para atender microempreendedores individuais (MEI), pequenas e médias empresas do setor de eletrônicos. 
 
-O controle de estoque é um dos elementos mais importantes para a gestão de qualquer empresa, especialmente no setor de eletrônicos, onde há constante entrada de novos produtos, lançamentos e mudanças rápidas na demanda. Um sistema eficiente de gestão de estoque permite maior organização, evita prejuízos com falta ou excesso de produtos. 
+O objetivo é oferecer um sistema web **simples, funcional e acessível** que permita cadastrar, organizar e consultar produtos, trazendo mais eficiência e modernidade ao processo de gestão.
+
+### O Problema
+O controle de estoque é um dos elementos mais importantes para a gestão de qualquer empresa. No setor de eletrônicos, onde há constante entrada de novos produtos, lançamentos e mudanças rápidas na demanda, a falta de controle gera prejuízos. O NeoEstoque resolve a desorganização de planilhas e anotações manuais.
+
+---
+
+## Funcionalidades Principais
+
+* **Cadastro de Produtos:** Adição de itens com Nome, Categoria, Quantidade e Preço.
+* **Gestão de Estoque:** Atualização fácil de entradas e saídas.
+* **Busca Rápida:** Filtros por nome ou categoria para localizar itens instantaneamente.
+* **Persistência de Dados:** Uso de **LocalStorage** para salvar os dados no navegador, dispensando banco de dados externo (Back-end).
+* **Design Responsivo:** Interface adaptável para acesso via computadores ou tablets.
+
+---
+
+## Tecnologias Utilizadas
+
+* **HTML5:** Estruturação semântica.
+* **CSS3:** Estilização e layout responsivo.
+* **JavaScript (Vanilla):** Lógica de negócio e manipulação do DOM.
+* **LocalStorage API:** Armazenamento de dados no cliente.
+
+---
 
 ## Integrantes
 
-* Alexandre Wilson Calcavara 
-* Caio Balloni 
-* Emerson Avelar 
-* Luca Emílio 
-* Rafael Azanha 
-* Maria Luiza Ferreira 
+* Alexandre Wilson
+* Caio Balloni
+* Emerson Avelar
+* Luca Emílio
+* Rafael Azanha
 
-## Orientador
+**Orientador:** Marco Rodrigo Costa
 
-* Marco Rodrigo Costa
+---
 
-# Planejamento
+## 📅 Planejamento
 
-| Etapa         | Atividades |
-|  :----:   | ----------- |
-| ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
-| ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
-| ETAPA 3         |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
-| ETAPA 4        |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
-| ETAPA 5         | [Apresentação](presentation/README.md) |
+| Etapa | Atividades | Status |
+|:---:|:---|:---:|
+| **ETAPA 1** | [Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/specification.md) | ✅ Concluído |
+| **ETAPA 2** | [Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) | ✅ Concluído |
+| **ETAPA 3** | [Programação - HTML e CSS](docs/development.md) | ✅ Concluído |
+| **ETAPA 4** | [Programação - Javascript](docs/development.md) <br> [Testes de Software](docs/tests.md) | ✅ Concluído |
+| **ETAPA 5** | [Apresentação](presentation/README.md) |              |
 
-# Código
+---
 
-<li><a href="index.html"> Código Fonte</a></li>
+## 💻 Acesso ao Projeto
 
-# Apresentação
+Você pode acessar os arquivos do projeto ou visualizar a apresentação através dos links abaixo:
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+**[Acessar Código Fonte](index.html)**
+**[Acessar Site Postado](https://icei-puc-minas-pmv-si.github.io/pmv-si-2025-2-pe1-t4-pmv-si-2025-2-pe1-t4-projneoestoque/inicio.html)**
+**[Ver Apresentação da Solução](presentation/README.md)**
+
+---
+
+> Projeto desenvolvido durante o 1º semestre do curso de Sistemas de Informação da PUC Minas.
