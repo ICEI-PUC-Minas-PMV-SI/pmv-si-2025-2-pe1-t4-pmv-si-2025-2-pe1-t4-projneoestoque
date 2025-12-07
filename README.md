@@ -35,7 +35,7 @@ O controle de estoque é um dos elementos mais importantes para a gestão de qua
 
 # Código
 
-<li><a href="src/Index.html"> Código Fonte</a></li>
+<li><a href="index.html"> Código Fonte</a></li>
 
 # Apresentação
 
