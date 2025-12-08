@@ -42,7 +42,7 @@ O controle de estoque é um dos elementos mais importantes para a gestão de qua
 * Caio Balloni
 * Emerson Avelar
 * Luca Emílio
-* Rafael Azanha
+* Rafael Francesquine Azanha
 
 **Orientador:** Marco Rodrigo Costa
 
